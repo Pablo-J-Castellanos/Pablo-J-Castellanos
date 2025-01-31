@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center">pabcascom</h1>
+<h1 align="center">Pablo J. Castellanos</h1>
 <div align="center"> <img src="https://avatars.githubusercontent.com/u/93253675?v=4" alt="circle-icon" width="250" border="5"> </div>
 <br/>
 <div id="badges" align="center">
