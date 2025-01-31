@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align="center">pabcascom</h1>
-<div align="center"> <img src="assets/imgs/circle-icon.png" alt="circle-icon" width="250" border="5"> </div>
+<div align="center"> <img src="https://avatars.githubusercontent.com/u/93253675?v=4" alt="circle-icon" width="250" border="5"> </div>
 <br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pablo-jes%C3%BAs-castellanos-compa%C3%B1a/" target="_blank">
